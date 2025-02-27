@@ -92,6 +92,16 @@ HTTP Status Code: 301
 - host (for hostname resolution check)
 These tools are typically available on most Linux and macOS systems.  You may need to install nc (netcat) on some systems if it's not already present.
 
+## Upcoming Updates:
+
+* **Advanced Port Scanning:** `nmap`, service detection.
+* **Enhanced HTTP:** Detailed info, SSL, redirects.
+* **Improved DNS:** Record types, reverse lookups.
+* **Better Output:** Color, logging, JSON/YAML.
+* **More Network Info:** Interfaces, routing, whois.
+* **Robustness:** Error handling, timeouts.
+* **Cross-Platform.**
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 - Fork the repository on GitHub.
